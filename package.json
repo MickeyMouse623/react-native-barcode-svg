@@ -1,0 +1,19 @@
+{
+  "name": "react-native-barcode-svg",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ./"
+  },
+  "keywords": [
+    "react-native",
+    "barcode",
+    "barcode-svg"
+  ],
+  "author": "xulizhong <672737283@qq.com>",
+  "dependencies": {
+    "jsbarcode": "^3.11.3",
+    "react-native-svg": "^12.1.0"
+  }
+}
